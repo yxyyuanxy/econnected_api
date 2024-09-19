@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "code": "0",
+  "message": "OK",
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+      "event_id": "econnect_member_policy_1",
+      "link": "https://membership-pp.oss-cn-shanghai.aliyuncs.com/consents/econnect_member_guide.html,https://membership-pp.oss-cn-shanghai.aliyuncs.com/consents/econnect_app_member_guide.html,https://membership-pp.oss-cn-shanghai.aliyuncs.com/consents/econnect_member_privacy_policy.html,https://membership-pp.oss-cn-shanghai.aliyuncs.com/consents/econnect_member_privacy_policy.html",
+      "required": true,
+      "name": "我已阅读并同意{迪卡侬会员须知}、{用户协议}与{迪卡侬隐私政策}并且我同意按照{迪卡侬隐私政策}告知的内容共享本人的个人信息"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
